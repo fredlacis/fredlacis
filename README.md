@@ -4,10 +4,10 @@ I'm an iOS developer based in Rio de Janeiro currently on the last semester of C
 <h2>Published Apps</h2>
 <p align="left">
   <a href="https://apps.apple.com/br/app/cogu/id1575371905?l=en" target="_blank">
-    <img height="170rem" src="https://user-images.githubusercontent.com/45044768/130129764-98718d66-25b5-47c5-ba5c-3fd09ce8e65a.png">
+    <img height="150rem" src="https://user-images.githubusercontent.com/45044768/130129764-98718d66-25b5-47c5-ba5c-3fd09ce8e65a.png">
   </a>
   <a href="https://apps.apple.com/br/app/ways/id1537176656?l=en" target="_blank">
-    <img height="170rem" src="https://user-images.githubusercontent.com/45044768/130129844-f9e99767-8491-4ac3-a294-2524fcd9a65b.png">
+    <img height="150rem" src="https://user-images.githubusercontent.com/45044768/130129844-f9e99767-8491-4ac3-a294-2524fcd9a65b.png">
   </a>
 </p>
 
