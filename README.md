@@ -2,6 +2,7 @@
 <ul>
   <li>Working at <a href="https://www.sinqia.com.br/">Sinqia</a></li>
   <li>Apple Developer Academy Alumni</li>
+  <li>Computer Scientist | PUC-Rio</li>
 </ul>
 
 <h2>Published Apps</h2>
