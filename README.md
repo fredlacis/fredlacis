@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Fred!</h1>
 <ul>
-  <li>Working at <a href="https://www.sinqia.com.br/">Sinqia</a></li>
+  <li>Working at <a href="https://www.sinqia.com.br/">Sinqia</a> with the client <a href="https://www.abcbrasil.com.br">ABC Bank</a></li>
   <li>Apple Developer Academy Alumni</li>
   <li>Computer Scientist | PUC-Rio</li>
 </ul>
